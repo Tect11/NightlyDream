@@ -1,0 +1,30 @@
+Tabs:
+
+NightlyDreamUI.Tabs:Connect(UIFUNCTION()
+   NightlyDreamUI.Tabs.Name = "Main"
+  NightlyDreamUI.Tabs.Name = "Options"
+end
+
+Buttons: 
+
+NightlyDreamUI.Buttons.Tab.Main.Name = "PUT BUTTON NAME"
+    print("Sup")
+end
+
+Toggles:
+
+NightlyDreamUI.Toggle.Tab.Main.Name = "PUT Toggle NAME"
+    print("Sup")
+end
+
+Toggle.off = Value.SetVoidFalse
+
+else
+
+Toggle.on = Value.Set.Toggle.Name
+
+Sliders:
+
+Soon
+
+-
