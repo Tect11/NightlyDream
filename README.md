@@ -16,3 +16,4 @@ local NightlyDream = loadstring(game:HttpGet("https://github.com/Tect11/NightlyD
 
 [Items](https://github.com/Tect11/NightlyDream/blob/main/Items)
 
+[Themes](https://github.com/Tect11/NightlyDream)
