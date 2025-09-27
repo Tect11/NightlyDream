@@ -12,6 +12,7 @@ You can load NightlyDream through a GitHub Release:
 local NightlyDream = loadstring(game:HttpGet("https://github.com/Tect11/NightlyDream/releases/latest/download"))
 ```
 
-## 📜 Usage
-[Example Script](#)  
+## 📜 Elements
+
+[Items](#)
 
